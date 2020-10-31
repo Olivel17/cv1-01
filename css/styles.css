@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+  }
+  h1 {
+color: #006a71;
+    }
+    h3 {
+      color: #68b0ab;
+    }
+    p {
+      color: #1a1c20;
+    }
+    img {
+      background-color: #68b0ab;
+    }
+  a {
+    color: #1a1c20;
+  }
+hr {
+  border-style: none;
+  border-top-style:dotted;
+  border-color: #1a1c20;
+  border-width: 3px;
+  width: 10%;
+}
